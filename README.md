@@ -1,6 +1,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rofiqusmonov&layout=compact)
 
-![Rofiq github stats ](https://github--stats.vercel.app/api?username=rofiqusmonov&show_icons=true&theme=dark&title_color=618CD8&bg_color=1A1B27&icon_color=705992&text_color=618CD8)
+[![rofiqusmonov github stats ](https://github-readme-stats.vercel.app/api?username=rofiqusmonov&show_icons=true&theme=dark)](https://github.com/rofiqusmonov)
 
 <h1 align="center">Hi 👋, I'm Rofiqjno</h1>
 <h3 align="center">I'm Strong Junior FullSctack Developer</h3>
