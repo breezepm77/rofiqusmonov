@@ -1,5 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rofiqusmonov&theme=dark&layout=compact)
-
 [![rofiqusmonov github stats ](https://github-readme-stats.vercel.app/api?username=rofiqusmonov&show_icons=true&theme=dark)](https://github.com/rofiqusmonov)
 
 <h1 align="center">Hi 👋, I'm Rofiqjon</h1>
