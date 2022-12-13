@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">[![My Skills](https://skillicons.dev/icons?i=html,css,js,reactjs,typescript)](https://skillicons.dev) </p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,reactjs,typescript)](https://skillicons.dev)
 
 
 
