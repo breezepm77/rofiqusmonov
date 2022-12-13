@@ -1,4 +1,4 @@
-[![rofiqusmonov github stats ](https://github-readme-stats.vercel.app/api?username=rofiqusmonov&show_icons=true&theme=dark)](https://github.com/rofiqusmonov)
+[![rofiqusmonov github stats](https://github-readme-stats.vercel.app/api?username=rofiqusmonov&show_icons=true&theme=dark)](https://github.com/rofiqusmonov)
 
 <h1 align="center">Hi 👋, I'm Rofiqjon</h1>
 <h3 align="center">I'm Middle Frontend Developer</h3>
